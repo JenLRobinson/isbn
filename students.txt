@@ -1,0 +1,8 @@
+
+
+students (John Jenny Jen Shane JohnT Rich Meg Aaron Dolly Ed).sample(2)  
+person=students.sample
+students{[2]}
+students.delete(person)
+end
+ 
